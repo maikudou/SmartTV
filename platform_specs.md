@@ -17,7 +17,7 @@
 | __HTTPS__        | + | + | + | + | + |
 | __CORS__         | ? | + | + | + | + |
 
-## Samsung
+## Samsung non-Tizen
 
 |       | 2011        | 2012        | 2013        | 2014        | 2014 UHD    |
 | ----- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -25,7 +25,7 @@
 | __100% Working Resolution__   | 1280&times;720 | 1280&times;720 | 1280&times;720 | 1280&times;720 | 1920&times;1080 |
 | __Supported Resolution__   | 1280 &times; 720 | 1920&times;1080 | 1920&times;1080 | 1920&times;1080 | 1920&times;1080 |
 | __Browser__      | Maple | Webkit 534.7+ | Webkit 535.20+ | Webkit 537.42+ | Webkit 537.42+ |
-| __JavaScript__   | Javascript 1.8 | SquirrelFish | V8 | V8 | V8 |
+| __JavaScript__   | Javascript 1.8 | SquirrelFish | V8 | JSC | JSC |
 | __PlayReady__    | + | + | + | + | + |
 | __WMDRM10__      | — | — | — | — | — |
 | __Pointer__      | — | — | — | + | + |
