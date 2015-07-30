@@ -8,3 +8,5 @@ Fun and useful data about SmartTV web-based development
 [NetTV userAgent strings for different vendors](nettv_user_agents.md)
 
 [Samsung models demistified](samsung_models.md)
+
+[KeyCodes of key events](keycodes.md)
