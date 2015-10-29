@@ -63,7 +63,7 @@ U, B — 720p matrix<br/>
 </table>
 
 ### Notes
-Source site states W for 2012 model year, but my experience says it's deffinitely is 2011
+Source site states W for 2012 model year, but my experience says it definitely is 2011
 
 ##### Some Year/Screen combination have special meaning:
 
