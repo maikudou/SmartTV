@@ -31,9 +31,10 @@ P — PLASMA</td>
     <tr>
       <td>F</td>
       <td>Model year:<br/>
+H — 2016<br/>
 F, G — 2015<br/>
 B, C — 2014<br/>
-N, A, H — 2013<br/>
+N, A — 2013<br/>
 M, S — 2012<br/>
 W, V — 2011</td>
     </tr>
