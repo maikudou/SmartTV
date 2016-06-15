@@ -47,6 +47,7 @@ A — Asia</td>
       <td>F</td>
       <td>Model year:<br/>
 K — 2016<br/>
+KU — 2016 UHD<br/>
 KS — 2016 SUHD<br/>
 J — 2015 (both Tizen and Legacy)<br/>
 JU — 2015 UHD (both Tizen and Legacy)<br/>
